@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaProjectCode.iml" filepath="$PROJECT_DIR$/JavaProjectCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjectCode_DiskScheduling.iml" filepath="$PROJECT_DIR$/JavaProjectCode_DiskScheduling.iml" />
     </modules>
   </component>
 </project>
