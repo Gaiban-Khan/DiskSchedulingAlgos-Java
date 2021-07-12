@@ -3,9 +3,9 @@ Java project on disk scheduling algorithms
 
 Algorithms:
 
-First come first serve.
-Shortest seek time first.
-Look.
-C-Look.
-Scan.
-C-Scan.
+1. First come first serve.
+2. Shortest seek time first.
+3. Look.
+4. C-Look.
+5. Scan.
+6. C-Scan.
