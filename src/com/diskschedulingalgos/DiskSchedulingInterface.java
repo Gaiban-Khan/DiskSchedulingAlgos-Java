@@ -2,7 +2,6 @@ package com.diskschedulingalgos;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Objects;
 
 public interface DiskSchedulingInterface {
