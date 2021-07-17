@@ -7,7 +7,7 @@ import java.util.Objects;
 
 public interface DiskSchedulingInterface {
 
-    // This function bears the implementation of the algorithm.
+    // This function has the implementation of the algorithm.
     void algorithm ();
 
     // For FCFS, LOOK, CLOOK, SSTF algorithms.
