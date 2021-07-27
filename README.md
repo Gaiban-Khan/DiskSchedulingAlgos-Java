@@ -1,7 +1,7 @@
 # JavaProjectCode
 Java project on disk scheduling algorithms
 
-Algorithms:
+<h3>Algorithms:</h3>
 
 1. First come first serve.
 2. Shortest seek time first.
